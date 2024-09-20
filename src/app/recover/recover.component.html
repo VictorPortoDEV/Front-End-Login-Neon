@@ -1,0 +1,16 @@
+<body>
+    <div class="background-overlay"></div> <!-- Fundo que cobre toda a tela -->
+
+
+<div class="recover-container">
+    <h2>Recuperar Senha</h2>
+    
+    <div class="form-group">
+      <label class="label" for="email">E-mail</label>
+      <input type="email" id="email" placeholder="Digite seu email" (input)="onEmailInput($event)" />
+    </div>
+  
+    <button (click)="recoverPassword()">Continuar</button>
+    <p *ngIf="message" class="success-message">{{ message }}</p>
+</div>
+<body>
