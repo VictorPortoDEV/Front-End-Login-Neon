@@ -9,7 +9,7 @@ Use `ng serve` para rodar o projeto em [https://localhost:4200](https://localhos
 ## Etapas do Projeto
 
 ### 1 - TELA DE LOGIN
-![Login](https://s11.gifyu.com/images/SA3iI.gif)
+![Login](assets/login.gif)
 
 ### 2 - TELA RECUPERAR SENHA
-![Recuperar Senha](https://s11.gifyu.com/images/SA3iQ.gif)
+![Recuperar Senha](assets/recuperar-senha.gif)
